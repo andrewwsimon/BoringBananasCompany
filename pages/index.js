@@ -8,13 +8,12 @@ export default function Home() {
         <title>Boring Bananas Company</title>
         <link rel="icon" href="/images/favicon.jpg" />
 
-        <meta property="og:title" content="Boring Bananas Co." key="ogtitle" />
-        <meta property="og:description" content="Here at Boring Bananas company, we specialise in the world's finest digital bananas. We've put together a team spanning 3 continents, to bring you some of the most ‍NUTRITIOUS and DELICIOUS
-bananas out known to man." key="ogdesc" />
+        <meta property="og:title" content="Soliens" key="ogtitle" />
+        <meta property="og:description" content="Solien (Not So) Secret Society" key="ogdesc" />
         <meta property="og:type" content="website" key="ogtype" />
-        <meta property="og:url" content="https://boringbananas.co/" key="ogurl"/>
+        <meta property="og:url" content="https://soliens.io/" key="ogurl"/>
         <meta property="og:image" content="https://boringbananas.co/images/Hola.gif" key="ogimage"/>
-        <meta property="og:site_name" content="https://boringbananas.co/" key="ogsitename" />
+        <meta property="og:site_name" content="https://soliens.io/" key="ogsitename" />
 
         <meta name="twitter:card" content="summary_large_image" key="twcard"/>
         <meta property="twitter:domain" content="boringbananas.co" key="twdomain" />
