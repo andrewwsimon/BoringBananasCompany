@@ -27,7 +27,7 @@ bananas out known to man." key="twdesc" />
 
       <div >
           <div className="flex items-center justify-between w-full border-b-2	pb-6">
-            <a href="/" className=""><img src="images/Hola.gif" width="108" alt="" className="logo-image" /></a>
+            <a href="/" className=""><img src="images/logo.png" width="108" alt="" className="logo-image" /></a>
             <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
               <a href="#about" className="text-4xl text-white hover:text-black m-6">About</a>
               <a href="/mint" className="text-4xl text-white hover:text-black m-6">MINT!</a>
