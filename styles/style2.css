@@ -1,18 +1,4 @@
 @font-face {
-font-family: 'Poppitandfinch';
-src: url('../fonts/PoppitAndFinch.otf') format('opentype');
-font-weight: 400;
-font-style: normal;
-font-display: swap;
-}
-@font-face {
-font-family: 'Poppitandfinchsans';
-src: url('../fonts/PoppitAndFinchSans.otf') format('opentype');
-font-weight: 400;
-font-style: normal;
-font-display: swap;
-}
-@font-face {
 font-family: 'Montserrat-Light';
 src: url('../fonts/Montserrat-Light.ttf') format('truetype');
 font-weight: 300;
@@ -33,11 +19,11 @@ font-display: swap;
     font-family: Montserrat-Light, sans-serif;
 }
 .Poppitandfinch {
-    font-family: Poppitandfinch, sans-serif;
+    font-family: Montserrat-Bold, sans-serif;
 }
   
 .Poppitandfinchsans {
-    font-family: Poppitandfinchsans, sans-serif;
+    font-family: Montserrat-Bold, sans-serif;
 }
 
 .text-blau {
