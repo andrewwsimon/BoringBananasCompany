@@ -12,7 +12,7 @@ export default function Home() {
         <meta property="og:description" content="Solien (Not So) Secret Society" key="ogdesc" />
         <meta property="og:type" content="website" key="ogtype" />
         <meta property="og:url" content="https://soliens.io/" key="ogurl"/>
-        <meta property="og:image" content="https://boringbananas.co/images/Hola.gif" key="ogimage"/>
+        <meta property="og:image" content="/images/logo.png" key="ogimage"/>
         <meta property="og:site_name" content="https://soliens.io/" key="ogsitename" />
 
         <meta name="twitter:card" content="summary_large_image" key="twcard"/>
