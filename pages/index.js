@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div id="bodyy" className="flex flex-col items-center justify-center min-h-screen py-2">
       <Head>
-        <title>Boring Bananas Company</title>
+        <title>Solien (Not So) Secret Society </title>
         <link rel="icon" href="/images/favicon.jpg" />
 
         <meta property="og:title" content="Soliens" key="ogtitle" />
@@ -31,7 +31,7 @@ bananas out known to man." key="twdesc" />
             <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
               <a href="#about" className="text-4xl text-white hover:text-black m-6">About</a>
               <a href="/mint" className="text-4xl text-white hover:text-black m-6">MINT!</a>
-              <a href="#traits" className="text-4xl text-white hover:text-black m-6">Banana traits</a>
+              <a href="#traits" className="text-4xl text-white hover:text-black m-6">Solien traits</a>
               <a href="#roadmap" className="text-4xl text-white hover:text-black m-6">Roadmap</a>
               <a href="#team" className="text-4xl text-white hover:text-black m-6">Team</a>
               <a href="#contact" className="text-4xl text-white hover:text-black m-6">Contact</a>
@@ -49,7 +49,7 @@ bananas out known to man." key="twdesc" />
           <div className="mt-6 border-b-2 py-6">
             <div className="flex flex-wrap lg:flex-nowrap justify-around items-center">
                   <div className="lg:w-1/2 w-3/4">
-                    <h1 className="text-7xl Poppitandfinchsans text-white ">EVERYONE, meet <br/><span className="text-blau">boring bananas</span></h1>
+                    <h1 className="text-7xl Poppitandfinchsans text-white ">Welcome to <br/><span className="text-blau">Solien (Not So) Secret Society</span></h1>
                     <p className="text-2xl text-white my-6  montserrat">Here at <span className="text-5xl Poppitandfinch ">boring</span> <span className="text-blau text-5xl Poppitandfinchsans">Bananas</span> <span className="text-5xl Poppitandfinch">company</span>, we specialize in the world's <span className="text-span-2 font-bold">finest digital bananas</span>.<br />‍<br />We&#x27;ve put together a team spanning 3 continents, to bring you some of the most <br/>‍<span className="text-blau text-5xl Poppitandfinchsans">NUTRITIOUS </span><span className="text-5xl Poppitandfinch ">and</span><span className="text-blau text-5xl Poppitandfinchsans"> DELICIOUS</span> <br/>bananas out there.
                     </p>
                     <p className="text-2xl text-white my-6  montserrat">
